@@ -3,20 +3,19 @@
 ---
 
 ## **Chapter 1 Today's Security Professional**
----
 
 ### **Exam objectives** 
 ---
 
-![Pasted image 20250807124659.png](../images/Pasted%20image%2020250807124659.png)
+![Pasted image 20250807124659.png](images/Pasted%20image%2020250807124659.png)
 
 
 ### **Index** 
 ---
-[1.1 Cybersecurity Objectives](sub%20indexes/1.1%20Cybersecurity%20Objectives.md)
-[1.2 Data Breach Risk](sub%20indexes/1.2%20Data%20Breach%20Risk.md)
-[1.3 Gap Analysis](sub%20indexes/1.3%20Gap%20Analysis.md)
-[1.4 Data Protection](sub%20indexes/1.4%20Data%20Protection.md)
+[1.1 Cybersecurity Objectives](Chapter%201%20Today's%20Security%20Professional/sub%20indexes/1.1%20Cybersecurity%20Objectives.md)
+[1.2 Data Breach Risk](Chapter%201%20Today's%20Security%20Professional/sub%20indexes/1.2%20Data%20Breach%20Risk.md)
+[1.3 Gap Analysis](Chapter%201%20Today's%20Security%20Professional/sub%20indexes/1.3%20Gap%20Analysis.md)
+[1.4 Data Protection](Chapter%201%20Today's%20Security%20Professional/sub%20indexes/1.4%20Data%20Protection.md)
 
 ### **Summary**
 ---

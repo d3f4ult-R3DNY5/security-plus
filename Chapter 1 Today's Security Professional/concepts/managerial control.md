@@ -4,6 +4,10 @@
 ---
 procedural mechanisms that focus on the mechanics of the risk management process
 
+>[!info]
+>- associated with security design and implementation
+>- tells people how to protect data and system
+>- creating policies and procedures
 #### Measures 
 ---
 - periodic risk assessments

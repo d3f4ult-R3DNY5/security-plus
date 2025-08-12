@@ -4,6 +4,8 @@
 ---
 enforce confidentiality, integrity, and availability in the digital space
 
+>[!info]
+>- implemented using systems 
 #### Measures 
 ---
 This could be implemented by 
@@ -11,3 +13,5 @@ This could be implemented by
 - ACL
 - IPS 
 - encryptions
+- firewalls 
+- antivirus 
