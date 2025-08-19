@@ -8,3 +8,4 @@
 ### Index
 ---
 - [4.1 Social Engineering and Human Vectors](sub%20indexes/4.1%20Social%20Engineering%20and%20Human%20Vectors.md)
+- [[sub indexes/4.2 Social Engineering techniques]]
