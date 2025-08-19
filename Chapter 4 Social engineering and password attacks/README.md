@@ -9,3 +9,4 @@
 ---
 - [4.1 Social Engineering and Human Vectors](sub%20indexes/4.1%20Social%20Engineering%20and%20Human%20Vectors.md)
 - [4.2 Social Engineering techniques](sub%20indexes/4.2%20Social%20Engineering%20techniques.md)
+- [4.3 Password attacks](sub%20indexes/4.3%20Password%20attacks.md)
