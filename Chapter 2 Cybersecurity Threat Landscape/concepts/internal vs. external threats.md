@@ -7,4 +7,3 @@
 
 The threats that exist within the organisations environment is known as an Internal threat.
 
-## 
