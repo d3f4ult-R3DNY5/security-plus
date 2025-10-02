@@ -25,5 +25,5 @@
 ### Two types Blind SQLi
 ---
 1. [blind content based SQLi](blind%20content%20based%20SQLi.md)
-2. [[blind timing based SQLix]]
+2. [blind timing based SQLi](blind%20timing%20based%20SQLi.md)
 
