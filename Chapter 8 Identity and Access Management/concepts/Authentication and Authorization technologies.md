@@ -10,7 +10,7 @@
 >	- EAP TTLS
 >- **Challenge Handshake Authentication Protocol (CHAP)** is an authentication protocol designed to provide more security than **PAP**
 >	- It uses a 3 way handshake and challenge to send credentials 
->![Pasted image 20251005132452.png](Pasted%20image%2020251005132452.png)
+>![Pasted image 20251005132452.png](../../images/Pasted%20image%2020251005132452.png)
 
 ### 802.1 X systems  
 ---
@@ -20,7 +20,7 @@ This is responsible for **network access control (NAC)** and is primarly used fo
 >- In 802.1X systems, supplicants send **authentication requests to authenticators** such as network switches, access points, or wireless controllers.
 >- These controllers connect to an authentication server via **RADIUS**
 >- The RADIUS server than relies on a backend directory like **LDAP or AD**
->![Pasted image 20251005132029.png](Pasted%20image%2020251005132029.png)
+>![Pasted image 20251005132029.png](../../images/Pasted%20image%2020251005132029.png)
 
 
 
@@ -55,7 +55,7 @@ Working
 >2. An authentication server checks the client's credentials and **responds with the TGT, which is encrypted using the secret key of the ticket-granting service (TGS).**
 >3. The client sends the **TGT to the TGS (which is usually also the KDC**) and **includes the name of the resource it wants to use.**
 >4. The TGS sends back a v**alid session key for the service, and the client presents the key to the service to access it**
->![Pasted image 20251005133614.png](Pasted%20image%2020251005133614.png)
+>![Pasted image 20251005133614.png](../../images/Pasted%20image%2020251005133614.png)
 
 
 ### SSO 
@@ -65,7 +65,7 @@ Working
 >- Organisation implement SSO for many systems but may require additional authentication steps or use of an additional privileged account for high-security environments
 >- Directory services like the **Lightweight Directory Access Protocol (LDAP) are commonly deployed as part of an identity management infrastructure** and offer **hierarchically organized information** about the org
 >
->![Pasted image 20251005134404.png](Pasted%20image%2020251005134404.png)
+>![Pasted image 20251005134404.png](../../images/Pasted%20image%2020251005134404.png)
 
 [Core technologies involving SSO](Core%20technologies%20involving%20SSO.md)
 

@@ -9,7 +9,7 @@
 ### **Index**
 ---
 
-[3.1 Malware](3.1%20Malware.md)
+[3.1 Malware](sub%20indexes/3.1%20Malware.md)
 
 ### Summary 
 ---

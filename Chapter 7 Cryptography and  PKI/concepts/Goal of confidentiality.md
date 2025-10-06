@@ -1,6 +1,6 @@
 ### Goal of confidentiality
 ---
-The main motive behind this goal is to ensure confidentiality of the [CIA Triad](CIA%20Triad.md)
+The main motive behind this goal is to ensure confidentiality of the [CIA Triad](../../Chapter%201%20Today's%20Security%20Professional/concepts/CIA%20Triad.md)
 
 This means protecting  
 - **[data at rest](data%20at%20rest.md)** 

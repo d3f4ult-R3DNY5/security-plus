@@ -8,14 +8,14 @@
 >[!example]
 >If a user enters orange tiger pillow into the search box, the web server needs to know what products in the catalog might match this search term 
 >
->![Pasted image 20251001200853.png](Pasted%20image%2020251001200853.png)
+>![Pasted image 20251001200853.png](../../images/Pasted%20image%2020251001200853.png)
 >
 >This command retrieves a list of items that can be included in the results returned to the end user. Now an **SQLi**  attack would look like 
 >
->![Pasted image 20251001201024.png](Pasted%20image%2020251001201024.png)
+>![Pasted image 20251001201024.png](../../images/Pasted%20image%2020251001201024.png)
 >
 >Corresponding data query would look like 
->![Pasted image 20251001201128.png](Pasted%20image%2020251001201128.png)
+>![Pasted image 20251001201128.png](../../images/Pasted%20image%2020251001201128.png)
 >
 >The attacker is able to provide the input to the application and is able to then monitor the O/P of the application which might reveal sensitive data 
 >

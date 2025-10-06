@@ -15,5 +15,5 @@
 ### Example 
 ---
 >[!example]
->![Pasted image 20251002090449.png](Pasted%20image%2020251002090449.png)
+>![Pasted image 20251002090449.png](../../images/Pasted%20image%2020251002090449.png)
 

@@ -11,10 +11,10 @@
 
 ### **Index** 
 ---
-- [1.1 Cybersecurity Objectives](1.1%20Cybersecurity%20Objectives.md)
-- [1.2 Data Breach Risk](1.2%20Data%20Breach%20Risk.md)
-- [1.3 Gap Analysis](1.3%20Gap%20Analysis.md)
-- [1.4 Data Protection](1.4%20Data%20Protection.md)
+- [1.1 Cybersecurity Objectives](sub%20indexes/1.1%20Cybersecurity%20Objectives.md)
+- [1.2 Data Breach Risk](sub%20indexes/1.2%20Data%20Breach%20Risk.md)
+- [1.3 Gap Analysis](sub%20indexes/1.3%20Gap%20Analysis.md)
+- [1.4 Data Protection](sub%20indexes/1.4%20Data%20Protection.md)
 
 ### **Summary**
 ---

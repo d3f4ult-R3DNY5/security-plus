@@ -14,7 +14,7 @@ When **large-sized keys are used, symmetric encryption** is very difficult to br
 
 - They are used only in **bulk encryption and only provide for confidentiality** 
 
-![Pasted image 20251004074700.png](Pasted%20image%2020251004074700.png)
+![Pasted image 20251004074700.png](../../images/Pasted%20image%2020251004074700.png)
 
 ### Weaknesses 
 ---

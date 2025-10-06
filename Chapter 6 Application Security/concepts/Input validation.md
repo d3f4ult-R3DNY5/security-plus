@@ -26,11 +26,11 @@ Applications that allow user input should perform validation of that input to re
 >[!note]
 >One way that the attackers bypass the input validation checks is by using parameter pollution . A web application might have a account label like the one below which is passed in the URL
 >
->![Pasted image 20251002110553.png](Pasted%20image%2020251002110553.png)
+>![Pasted image 20251002110553.png](../../images/Pasted%20image%2020251002110553.png)
 >
 >This might be modifiied to pass the URL like this 
 >
->![Pasted image 20251002110642.png](Pasted%20image%2020251002110642.png)
+>![Pasted image 20251002110642.png](../../images/Pasted%20image%2020251002110642.png)
 >
 >This might perform **input validation on the first argument properly but fail in providing validation  the second argument .**
 
