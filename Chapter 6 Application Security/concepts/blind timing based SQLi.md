@@ -14,6 +14,6 @@
 >
 >So for some complex query to extract the passwords from the database we would use the following command
 > 
->![Pasted image 20251002063417.png](../../images/Pasted%20image%2020251002063417.png)
+>![Pasted image 20251002063417.png](Pasted%20image%2020251002063417.png)
 
 

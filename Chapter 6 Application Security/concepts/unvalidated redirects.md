@@ -5,7 +5,7 @@ Some web applications allow the browser to **pass destination URLs to the applic
 ### Working 
 ---
 >[!example] Steps 
->![Pasted image 20251002072432.png](../../images/Pasted%20image%2020251002072432.png)
+>![Pasted image 20251002072432.png](Pasted%20image%2020251002072432.png)
 
 
 ### Mitigation 

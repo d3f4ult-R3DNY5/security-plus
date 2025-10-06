@@ -16,7 +16,7 @@ Once the software is in production is  requires **user training . maintenance an
 There **is no one model to develop the software.**
 
 The below diagram describes the high level SDLC
-![Pasted image 20251001140730.png](../../images/Pasted%20image%2020251001140730.png)
+![Pasted image 20251001140730.png](Pasted%20image%2020251001140730.png)
 
 
 ### SDLC phases 

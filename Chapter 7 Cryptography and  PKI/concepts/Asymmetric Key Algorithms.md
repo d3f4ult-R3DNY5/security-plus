@@ -16,7 +16,7 @@
 >2. She creates the message and then **encrypts it using Bob's public key.**
 >3. The only way to **decrypt** this is by using bob's private key 
 
-![Pasted image 20251004080921.png](../../images/Pasted%20image%2020251004080921.png)
+![Pasted image 20251004080921.png](Pasted%20image%2020251004080921.png)
 
 Asymmetric key algorithms also provide support for **digital signature technology**
 

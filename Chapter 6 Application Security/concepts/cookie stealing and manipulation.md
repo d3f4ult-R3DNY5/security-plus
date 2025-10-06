@@ -12,7 +12,7 @@ If an attacker is able to **steal someone's cookie**, they may then **impersonat
 >An on path attack is an attack in which the attacker tricks the user into thinking that the **attacker is actually the target website** and **presenting a fake authentication form**. They may then **authenticate to the website on the user's behalf and obtain the cookie.**
 
 Once the attacker obtains a cookie he does something which is known as a **session replay attack**. 
-![Pasted image 20251002071407.png](../../images/Pasted%20image%2020251002071407.png)
+![Pasted image 20251002071407.png](Pasted%20image%2020251002071407.png)
 
 Another form of replay attack that is used on the **Windows system is pass the hash attack** targets windows OS and aims to exploit the AD 
 ### Mitigation 

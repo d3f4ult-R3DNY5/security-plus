@@ -3,18 +3,18 @@
 
 ### Exam objectives 
 ---
-![Pasted image 20250822203009.png](../images/Pasted%20image%2020250822203009.png)
-![Pasted image 20250822203049.png](../images/Pasted%20image%2020250822203049.png)
+![Pasted image 20250822203009.png](Pasted%20image%2020250822203009.png)
+![Pasted image 20250822203049.png](Pasted%20image%2020250822203049.png)
 
 ### Indexes
 ---
-- [5.1 Vulnerability Management](sub%20indexes/5.1%20Vulnerability%20Management.md)
-- [5.2 Vulnerability scanning tools](sub%20indexes/5.2%20Vulnerability%20scanning%20tools.md)
-- [5.3 Reviewing and Interpreting Scan Reports](sub%20indexes/5.3%20Reviewing%20and%20Interpreting%20Scan%20Reports.md)
-- [5.4 Vulnerability Classification](sub%20indexes/5.4%20Vulnerability%20Classification.md)
-- [5.5 Pentesting](sub%20indexes/5.5%20Pentesting.md)
-- [5.6 Audits and Assessments](sub%20indexes/5.6%20Audits%20and%20Assessments.md)
-- [5.7 Vulnerability Life Cycle](sub%20indexes/5.7%20Vulnerability%20Life%20Cycle.md)
+- [5.1 Vulnerability Management](5.1%20Vulnerability%20Management.md)
+- [5.2 Vulnerability scanning tools](5.2%20Vulnerability%20scanning%20tools.md)
+- [5.3 Reviewing and Interpreting Scan Reports](5.3%20Reviewing%20and%20Interpreting%20Scan%20Reports.md)
+- [5.4 Vulnerability Classification](5.4%20Vulnerability%20Classification.md)
+- [5.5 Pentesting](5.5%20Pentesting.md)
+- [5.6 Audits and Assessments](5.6%20Audits%20and%20Assessments.md)
+- [5.7 Vulnerability Life Cycle](5.7%20Vulnerability%20Life%20Cycle.md)
 
 
 ### Summary 

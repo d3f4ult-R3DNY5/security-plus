@@ -10,7 +10,7 @@ The way that this attack is performed is by stealing the user's currently authen
 >- the website provides the user's browser with a **cookie** that may be used to authenticate future requests
 >- Whenever a user makes further request they may use this cookie
 
-![Pasted image 20251002070708.png](../../images/Pasted%20image%2020251002070708.png)
+![Pasted image 20251002070708.png](Pasted%20image%2020251002070708.png)
 
 
 ###  What is a cookie ?

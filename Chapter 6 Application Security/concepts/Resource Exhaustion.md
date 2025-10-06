@@ -7,8 +7,8 @@
 ### How memory leaks occur 
 ---
 >[!example] process
->![Pasted image 20251002124753.png](../../images/Pasted%20image%2020251002124753.png)
->![Pasted image 20251002124828.png](../../images/Pasted%20image%2020251002124828.png)
+>![Pasted image 20251002124753.png](Pasted%20image%2020251002124753.png)
+>![Pasted image 20251002124828.png](Pasted%20image%2020251002124828.png)
 
 
 

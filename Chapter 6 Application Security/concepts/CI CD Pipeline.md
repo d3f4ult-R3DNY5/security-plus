@@ -10,7 +10,7 @@
 ---
 > **This is often paired with CI** which rolls out tested changes into production automatically as soon as they have been tested.
 
-![Pasted image 20251001193153.png](../../images/Pasted%20image%2020251001193153.png)
+![Pasted image 20251001193153.png](Pasted%20image%2020251001193153.png)
 
 Using continuous integration and continuous deployment methods requires building **continuous validation and automated security testing** into the pipeline testing process.
 

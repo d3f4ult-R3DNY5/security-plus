@@ -8,10 +8,10 @@
 
 ### **Index**
 ---
-- [2.1 Classifying Cybersecurity Threats](sub%20indexes/2.1%20Classifying%20Cybersecurity%20Threats.md)
-- [2.2 Threat Vector and attack surfaces](sub%20indexes/2.2%20Threat%20Vector%20and%20attack%20surfaces.md)
-- [2.3 Threat Data and Intelligence](sub%20indexes/2.3%20Threat%20Data%20and%20Intelligence.md)
-- [2.4 Threat Indicators and information Exchange](sub%20indexes/2.4%20Threat%20Indicators%20and%20information%20Exchange.md)
+- [2.1 Classifying Cybersecurity Threats](2.1%20Classifying%20Cybersecurity%20Threats.md)
+- [2.2 Threat Vector and attack surfaces](2.2%20Threat%20Vector%20and%20attack%20surfaces.md)
+- [2.3 Threat Data and Intelligence](2.3%20Threat%20Data%20and%20Intelligence.md)
+- [2.4 Threat Indicators and information Exchange](2.4%20Threat%20Indicators%20and%20information%20Exchange.md)
 
 ### Summary 
 ---
