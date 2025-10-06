@@ -1,0 +1,4 @@
+## Drone Defence
+---
+>[!note]
+>**Drones and UAVs** pose new **security concerns** for organizations. They can **capture images**, **deliver payloads**, or **disrupt operations**. **Antidrone systems** detect drones using **wireless signal analysis**, **infrared**, **acoustics**, **radar**, and **optical recognition**. Countermeasures include **kinetic defenses**, **signal jamming**, or **control hijacking**. However, **legal restrictions** make **disabling drones risky**, as it may lead to **costly legal consequences**. The **drone threat landscape** is **rapidly evolving**, requiring **continuous monitoring by security professionals**.
