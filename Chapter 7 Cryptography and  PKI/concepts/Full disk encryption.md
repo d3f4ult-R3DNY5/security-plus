@@ -9,3 +9,14 @@
 >Once the system is booted, **the entire disk is accessible, which means data is vulnerable if system gets compromised**
 
 
+### Implementation 
+---
+>[!note]
+>- This can be implemented at the hardware level using a **self encrypting drive** 
+>- This method makes use of an encryption key which  based on the 
+>	- token
+>	- security key 
+
+>[!caution]
+>- If the encryption key is lost it becomes diifcult to withdraw the data 
+
